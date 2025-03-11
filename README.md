@@ -9,7 +9,7 @@
 <img alt="Issues" src="https://img.shields.io/github/issues/valentinfrlch/llmvision-card?color=0088ff"/>
 <img alt="Static Badge" src="https://img.shields.io/badge/support-buymeacoffee?logo=buymeacoffee&logoColor=black&color=%23FFDD00&link=https%3A%2F%2Fbuymeacoffee.com%2Fvalentinfrlch">
     <p align=center style="font-weight:bold">
-      Custom Card to display the LLM Vision Timeline on your Home Assistant Dashboard
+      Custom Card to display the LLM Vision Timeline on your Home Assistant Dashboard in Danish
     </p>
 </p>
 
@@ -37,10 +37,7 @@
 <a href="https://llm-vision.gitbook.io/getting-started/setup/timeline-card-beta"><img src="https://img.shields.io/badge/Documentation-blue?style=for-the-badge&logo=gitbook&logoColor=white&color=18bcf2"/> </a>
 
 ## Installation
-Add the repository to HACS and install the LLM Vision card using this link:
-[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=valentinfrlch&repository=llmvision-card&category=plugin)
-
-Alternatively you can add the url of this repository to the custom respositories list in HACS.
+Add the url of this repository to the custom respositories list in HACS.
 
 ## Setup
 1. Install the card through HACS
