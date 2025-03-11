@@ -164,9 +164,9 @@ class LLMVisionCard extends HTMLElement {
 
             let dateLabel;
             if (date.toDateString() === today.toDateString()) {
-                dateLabel = 'Today';
+                dateLabel = 'I dag';
             } else if (date.toDateString() === yesterday.toDateString()) {
-                dateLabel = 'Yesterday';
+                dateLabel = 'I går';
             } else {
                 dateLabel = formattedDate;
             }
