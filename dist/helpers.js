@@ -3,6 +3,7 @@ import { fr } from './fr.js';
 import { de } from './de.js';
 import { en } from './en.js';
 import { es } from './es.js';
+import { da } from './da.js';
 
 export function getIcon(title, lang = 'en') {
     let categories;
@@ -12,6 +13,8 @@ export function getIcon(title, lang = 'en') {
             categories = de.categories;
         } else if (lang === 'en') {
             categories = en.categories;
+        } else if (lang === 'da') {
+            categories = da.categories;
         } else if (lang === 'fr') {
             categories = fr.categories;
         } else if (lang === 'es') {
